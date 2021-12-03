@@ -1,0 +1,34 @@
+#main-div{
+    background-color:aliceblue;
+}
+#form{
+    background-color: white;
+    border-radius: 10px;
+    width:50%;
+    padding: 0px 150px 20px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+#heading{
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+#username-input-box{
+    width:400px;
+}
+#Email-input-box{
+    width:400px;
+}
+#password-input-box{
+    width:400px;
+}
+#repassword-input-box{
+    width:400px;
+}
+#btn-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
