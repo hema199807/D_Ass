@@ -1,3 +1,7 @@
+
+// use node index.j for start the server
+//after server started go to the browser -> open a new tab->copy and paste url http://localhost:8080/
+
 const bodyParser = require('body-parser');
 const express=require('express');
 const mongoose=require('mongoose');
